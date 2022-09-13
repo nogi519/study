@@ -4,4 +4,5 @@
     - Computational Thinking > Programming - Beginner > Intermediate > Advanced > Professional
   - Computational Thinking
     - 프로그래밍과 논리 / 수학
+    - 논리와 증명 / 수와 표현
   - Programming - Solving: SW 문제풀이 해설 강의
