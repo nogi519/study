@@ -9,3 +9,4 @@
     - 재귀와 동적 프로그래밍
     - 조합론 / 기초 알고리즘 프로그래밍 과제
   - Programming - Solving: SW 문제풀이 해설 강의
+  - Bixby Capsule
