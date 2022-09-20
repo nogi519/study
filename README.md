@@ -11,3 +11,4 @@
   - Programming - Solving: SW 문제풀이 해설 강의
   - Bixby Capsule
     - 1강 Bixby Capsule 소개
+    - 2강 Bixby Capsule개발 기본개념
