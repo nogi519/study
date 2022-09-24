@@ -15,3 +15,4 @@
     - 3강 Modeling 구현
     - 4강 Business Logic 구현
     - 5강 Bixby Capsule 디자인
+    - 6강 Bixby Capsule Endpoints
