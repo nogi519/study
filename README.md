@@ -16,3 +16,4 @@
     - 4강 Business Logic 구현
     - 5강 Bixby Capsule 디자인
     - 6강 Bixby Capsule Endpoints
+    - 7강 Bixby 자연어 학습하기
