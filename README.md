@@ -17,3 +17,4 @@
     - 5강 Bixby Capsule 디자인
     - 6강 Bixby Capsule Endpoints
     - 7강 Bixby 자연어 학습하기
+    - 8강 Bixby Capsule Library 활용하기
