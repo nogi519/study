@@ -8,6 +8,8 @@
     - 집합과 조합론 / 기초 수식
     - 재귀와 동적 프로그래밍
     - 조합론 / 기초 알고리즘 프로그래밍 과제
+  - Programming - Beginner
+    - 파이썬 프로그래밍 기초(1) 파이썬의 기본 구조와 기초 문법
   - Programming - Solving: SW 문제풀이 해설 강의
   - Bixby Capsule
     - 1강 Bixby Capsule 소개
