@@ -23,3 +23,4 @@
     - 9강 Bixby 쉽게 개발해보기
     - 10강 Bixby 실전 개발
   - Computer Science
+    - SW Project Management - 1
