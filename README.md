@@ -24,3 +24,4 @@
     - 10강 Bixby 실전 개발
   - Computer Science
     - SW Project Management - 1
+    - SW Project Management - 2
