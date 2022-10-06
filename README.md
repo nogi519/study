@@ -1,5 +1,5 @@
 # study
-- 정보처리기사 실기
+- 정보처리기사 실기: https://dustink.tistory.com/149
 - SW Expert Academy LEARN: https://swexpertacademy.com/main/learn/course/courseList.do
   - 추천 수강 순서
     - Computational Thinking > Programming - Beginner > Intermediate > Advanced > Professional
