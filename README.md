@@ -1,6 +1,6 @@
 # study
 - 정보처리기사 실기
-  - 시나공 실기
+  - 시나공 실기: https://www.youtube.com/watch?v=baJEnXpLei4&list=PLpYNFXUfkvDpQTrvcqsCI4E3JidQ8IYOW
   - https://dustink.tistory.com/149
 - SW Expert Academy LEARN: https://swexpertacademy.com/main/learn/course/courseList.do
   - 추천 수강 순서
