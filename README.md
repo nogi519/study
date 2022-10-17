@@ -3,6 +3,7 @@
   - CBT: https://url.kr/kq27mi
   - 시나공 실기: https://www.youtube.com/watch?v=baJEnXpLei4&list=PLpYNFXUfkvDpQTrvcqsCI4E3JidQ8IYOW
   - https://dustink.tistory.com/149
+---
 - SW Expert Academy LEARN: https://swexpertacademy.com/main/learn/course/courseList.do
   - 추천 수강 순서
     - Computational Thinking > Programming - Beginner > Intermediate > Advanced > Professional
