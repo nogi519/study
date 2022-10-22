@@ -30,4 +30,4 @@
     - Computer Science
       - SW Project Management - 1
       - SW Project Management - 2
-    -
+---
