@@ -15,7 +15,9 @@
       - 조합론 / 기초 알고리즘 프로그래밍 과제
     - Programming - Beginner
       - 파이썬 프로그래밍 기초(1)
-    - Programming - Solving: SW 문제풀이 해설 강의
+    - Programming - Beginner
+      - 파이썬 프로그래밍 기초(1)
+    - Intermediate
     - Bixby Capsule
       - 1강 Bixby Capsule 소개
       - 2강 Bixby Capsule 개발 기본개념
