@@ -16,6 +16,7 @@
     - Programming - Beginner
       - 파이썬 프로그래밍 기초(1)
     - Programming - Intermediate
+    - Programming - Advanced
     - Bixby Capsule
       - 1강 Bixby Capsule 소개
       - 2강 Bixby Capsule 개발 기본개념
