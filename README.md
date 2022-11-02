@@ -15,6 +15,7 @@
       - 조합론 / 기초 알고리즘 프로그래밍 과제
     - Programming - Beginner
       - 파이썬 프로그래밍 기초(1)
+      - 파이썬 프로그래밍 기초(2)
     - Programming - Intermediate
     - Programming - Advanced
     - Programming - Professional
