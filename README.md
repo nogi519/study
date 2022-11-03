@@ -19,6 +19,7 @@
     - Programming - Intermediate
     - Programming - Advanced
     - Programming - Professional
+    - Programming - Solving
     - Bixby Capsule
       - 1강 Bixby Capsule 소개
       - 2강 Bixby Capsule 개발 기본개념
