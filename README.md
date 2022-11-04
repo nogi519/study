@@ -17,6 +17,7 @@
       - 파이썬 프로그래밍 기초(1)
       - 파이썬 프로그래밍 기초(2)
     - Programming - Intermediate
+      - 파이썬 SW문제해결 기본
     - Programming - Advanced
     - Programming - Professional
     - Programming - Solving
