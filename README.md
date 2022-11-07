@@ -18,7 +18,7 @@
       - 파이썬 프로그래밍 기초(2)
     - Programming - Intermediate
       - 파이썬 SW문제해결 기본
-      - Self Study Book Ⅰ
+      - Self Study Book Ⅰ, Ⅱ, Ⅲ
     - Programming - Advanced
     - Programming - Professional
     - Programming - Solving
