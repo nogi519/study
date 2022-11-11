@@ -19,6 +19,7 @@
     - Programming - Intermediate
       - 파이썬 SW문제해결 기본
       - SW문제해결
+      - SW문제해결 
     - Programming - Advanced
     - Programming - Professional
     - Programming - Solving
